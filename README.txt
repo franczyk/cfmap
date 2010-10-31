@@ -1,6 +1,4 @@
 
-
-
 Aug 30 2010
 Copyright 2010 Ingenuity Systems, See included LICENSE file
 Copyright 2010 Royans K Tharakan <royans@gmail.com>, See included LICENSE file
