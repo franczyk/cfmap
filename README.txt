@@ -19,6 +19,12 @@ Cfmap (Configuration Map) is a highly distributed, fault tolerant, configuration
 5) Provides a way for other intelligent monitoring/alerting tools to use cfmap for monitoring and alerting purposes
 
 
+Default Ports:
+ 
+ cfmap - 8083
+ cassandra - 8080, 8081, 9160
+
+
 Acknowledgements
 ----------------
 
